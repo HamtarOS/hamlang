@@ -45,11 +45,11 @@ An instance of a Hamster is known as a "Ham Ham".
 ## Whiskers
 What other languages might call "object properties" are known as "whiskers" in hamlang.
 
-## Habitat
+## Dance
 A habitat is what would, in traditional 20th century computing, be known as a "program".
 
-## Cheeks
-Cheeks store things.
+## Burrows
+Burrows store Hamster instances.
 
 ## Tubes
 Ham Hams use tubes to communicate with their friends in other cages.
