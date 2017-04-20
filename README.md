@@ -46,7 +46,7 @@ An instance of a Hamster is known as a "Ham Ham".
 What other languages might call "object properties" are known as "whiskers" in hamlang.
 
 ## Dance
-A habitat is what would, in traditional 20th century computing, be known as a "program".
+A dance is what would, in traditional 20th century computing, be known as a "program".
 
 ## Burrows
 Burrows store Hamster instances.
